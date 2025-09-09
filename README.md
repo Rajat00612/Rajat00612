@@ -1,24 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rajat Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Aspiring Data Analyst | Data Science Trainee @ Newton School | Python • SQL • Power BI | Turning Data into Insights  🇮🇳</h3>
 
-- 🔭 I’m currently working on **React.js + MERN stack projects**
-- 🌱 I’m currently learning **API integration & UI/UX best practices**
-- 💼 Open to **Full Stack / Front-End Developer** roles
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- 🔭 I’m currently working on **Fata ScienceField**
+- 🌱 I’m currently  Quality Engineer → **Aspiring Data Analyst | Data Science Trainee @ Newton School | Python • SQL • Power BI | Turning Data into Insights roles**
+- 💬
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajat-b115a5355/)
 - 🌐 Portfolio: [View Portfolio](https://rajat00612.github.io)
 
 ### 🛠️ Tech Stack:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github)
-
+[Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ### 🔥 My Projects:
 - 📝 [iNotebook](https://i-notebook-front-end-six.vercel.app/login) – Secure Notes App with MERN Stack  
 - 📰 [NewsMonkey](https://github.com/Rajat00612/NewsMonkey) – Live News App using React & NewsAPI  
