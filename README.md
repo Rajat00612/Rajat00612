@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Kumar</h1>
 <h3 align="center">A passionate Aspiring Data Analyst | Data Science Trainee @ Newton School | Python • SQL • Power BI | Turning Data into Insights  🇮🇳</h3>
 
-- 🔭 I’m currently working on **Fata ScienceField**
+- 🔭 I’m currently working on **Data ScienceField**
 - 🌱 I’m currently  Quality Engineer → **Aspiring Data Analyst | Data Science Trainee @ Newton School | Python • SQL • Power BI | Turning Data into Insights roles**
 - 💬
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajat-b115a5355/)
