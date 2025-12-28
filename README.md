@@ -19,7 +19,6 @@ Turning Data into Actionable Insights 🇮🇳
 ## 🔗 Connect With Me
 - 💼 LinkedIn: [Visit Profile](https://www.linkedin.com/in/rajat-b115a5355/)
 - 📧 Email: Rajatkumar17141@gmail.com 
-- 🌐 Portfolio: [View Portfolio](https://rajat00612.github.io)
 - 🧠 HackerRank: https://www.hackerrank.com/profile/rajatkumar17141
 - 🧩 HackerEarth:[ https://www.hackerearth.com/@your-username](https://www.hackerearth.com/@rajatkumar17141/)
 
