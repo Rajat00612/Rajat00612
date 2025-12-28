@@ -11,8 +11,7 @@ Turning Data into Actionable Insights 🇮🇳
 ## 👨‍💻 About Me
 - 🔭 Currently training in the **Data Science field** with a focus on **Data Analytics**
 - 🌱 Transitioning from **Quality Engineer → Aspiring Data Analyst**
-- 📊 Passionate about **data analysis, visualization, and insight generation**
-- 🎯 Interested in solving **real-world business problems using data**
+- 📊 Passionate about **real-world business problems through data-driven insights**
 - 🚀 Continuously learning through **hands-on projects and case studies**
 
 ---
